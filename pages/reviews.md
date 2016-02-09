@@ -4,6 +4,6 @@ title: Reviews
 permalink: /about/reviews
 ---
 
-[Peter Frank](/portfolio-test/reviews/peter-frank)
+[Peter Frank](/reviews/peter-frank)
 
-[LA Artcore Webzine](/portfolio-test/reviews/artcore-webzine)
+[LA Artcore Webzine](/reviews/artcore-webzine)
