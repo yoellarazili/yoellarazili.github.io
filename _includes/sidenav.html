@@ -1,0 +1,64 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<header class="v-nav-left">
+  <div class="site-title clearfix">
+    <div class="logo_image">
+      <a class="nav-item-link" href="/">
+      </a>
+    </div>
+    <div class="logo_text">
+      <h2>
+        <a href="{{ site.baseurl }}/">
+        YOELLA RAZILI
+        </a>
+      </h2>
+    </div>
+    <nav class="vertical">
+      <ul class="main-nav">
+        <!-- sort by Home always first -->
+        <!-- sort by nav position -->
+        <li id="menu_item_19950" class="nav-item">
+          <a class="nav-item-link {% if current[1] == '' %}current{% endif %}" href="{{ site.baseurl }}/">Home</a>
+          <!-- end design section -->
+        </li>
+        <li id="menu_item_19957" class="nav-item">
+          <a class="nav-item-link" href="#">Works</a>
+          <!-- end design section -->
+          <ul class="sub-nav closed">
+            <li id="menu_item_19953" >
+              <a class="sub-nav-item-link {% if current[1] == 'works wood-constructions' %}current{% endif %}" href="{{ site.baseurl }}/works/wood-constructions">Wood constructions</a>
+            </li>
+            <li id="menu_item_19952" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/works/flats">Flats</a>
+            </li>
+            <li id="menu_item_19956" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/works/installations">Installations</a>
+            </li>
+          </ul>
+        </li>
+        <li id="menu_item_19959" class="nav-item">
+          <a class="nav-item-link" href="#">About</a>
+          <!-- end design section -->
+          <ul class="sub-nav closed">
+            <li id="menu_item_19958" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/about/bio">Bio</a>
+            </li>
+            <li id="menu_item_19960" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/about/statement">Statement</a>
+            </li>
+            <li id="menu_item_19970" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/about/resume">Resume</a>
+            </li>
+            <li id="menu_item_19961" >
+              <a class="sub-nav-item-link " href="{{ site.baseurl }}/about/reviews">Reviews</a>
+            </li>
+          </ul>
+        </li>
+        <li id="menu_item_19955" class="nav-item">
+          <a class="nav-item-link {% if current[1] == 'contact' %}current{% endif %}" href="{{ site.baseurl }}/contact">Contact</a>
+          <!-- end design section -->
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

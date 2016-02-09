@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="cb-site-container" class="client-galleries show left client-galleries-11549 page-{{ page.title | slugify }}">
+    <div class="cb-site fullscreen v-nav-left">
+      <a class="menu-toggle" href="#">u</a>
+      <div class="hm-wrapper">
+
+        {% include sidenav.html %}
+
+        <main class="vertical-nav v-nav-left">
+          {{ content }}
+        </main>
+        
+      </div>
+    </div>
+  </body>
+</html>

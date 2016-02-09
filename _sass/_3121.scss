@@ -1,0 +1,464 @@
+#cb-site-container {
+      background-image: none;
+      background-color: rgb(255, 255, 255);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+
+    .cb-site {
+      background-color: rgb(253, 253, 253);
+      padding-top: 40px;
+      padding-left: 30px;
+      padding-right: 20px;
+      padding-bottom:10px;
+      margin-left: 0px;
+      margin-right: 0px;
+      max-width: 1200px;
+    }
+
+    .cb-site main {
+      padding-top: 0px;
+    }
+
+    .cb-site .hm-wrapper {
+      padding-bottom: 41px;
+    }
+
+    .gallery-slideshow, .gallery-slideshow .slide {
+      background-color: rgb(253, 253, 253);
+    }
+
+    .gallery-slideshow .gallery-close-button {
+      color: rgb(172, 172, 172);
+    }
+
+    .cb-site .gallery-slideshow .item {
+      background-color: #ffffff;
+    }
+
+    .cb-site .gallery-slideshow .item, .cb-site .gallery.item {
+      background-color: #ffffff;
+    }
+
+    .cb-site footer {
+      bottom: 10px;
+      padding-top: 15px;
+    }
+
+    .client-pages .cb-site main, .client-blog .cb-site main {
+      max-width: 1200px;
+    }
+
+    .cb-site .logo_text h2 a{
+      font-family: Roboto Condensed;
+      font-size: 26px;
+      color: rgb(153, 153, 153);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 6.4px;
+    }
+
+    .cb-site .logo_text {
+      padding-top: 0px;
+      padding-bottom: 27px;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .cb-site .logo_image {
+      padding-top: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .cb-site .logo_image img {
+      max-width: 210px;
+    }
+
+    .cb-site nav ul.main-nav {
+      padding-top: 14px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .cb-site.v-nav-left header, .cb-site.v-nav-left-banner nav {
+      width: 220px
+    }
+
+    .cb-site.v-nav-left main, .cb-site.v-nav-left-banner main {
+      margin-left: 220px
+    }
+
+    .cb-site nav li.nav-item {
+      margin-right: 14px;
+      // line-height: 0em;
+    }
+
+    .cb-site nav li .sub-nav-item-link {
+      line-height: 0em;
+    }
+
+    .cb-site nav.vertical li.nav-item {
+      margin-bottom: 14px;
+    }
+
+    .cb-site nav.vertical .sub-nav li {
+      margin-top: 14px;
+    }
+
+    .cb-site:not(.v-nav-left, .v-nav-left-banner) nav li.nav-item {
+      margin-right: 14px;
+    }
+
+    .cb-site nav li a {
+      font-family: Roboto Condensed;
+      font-size: 14px;
+      color: rgb(172, 172, 172);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 1px;
+    }
+
+    .cb-site nav li a:hover, .cb-site nav li a.current, .cb-site nav li a:active {
+      color: rgb(73, 73, 73);
+    }
+
+    .cb-site p {
+      font-family: Open Sans;
+      font-size: 13px;
+      color: rgb(112, 112, 112);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 0.2px;
+      line-height: 1.4;
+    }
+
+    .cb-site a {
+      color: rgb(112, 112, 112);
+    }
+
+    .cb-site h1 {
+      font-family: Open Sans;
+      font-size: 26px;
+      color: rgb(45, 45, 45);
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.7px;
+    }
+
+    .cb-site h2 {
+      font-family: Open Sans;
+      font-size: 20px;
+      color: rgb(45, 45, 45);
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.4px;
+    }
+
+    .cb-site h3, .cb-site h4, .cb-site h5, .cb-site h6, .cb-site .form-group label {
+      font-family: Open Sans;
+      color: rgb(45, 45, 45);
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.5px;
+    }
+
+    .cb-site .form-group label {
+      font-size: 13px;
+    }
+
+    .cb-site h3 {
+      font-size: 16px;
+    }
+
+    .cb-site .form-control {
+      font-family: Open Sans;
+      border-radius: 0px;
+      box-shadow: inset 0 0 0 2px rgba(172, 172, 172,0.25);
+      color: #666666;
+    }
+
+    .cb-site footer, .cb-site footer .cb-branding {
+      line-height: 1;
+    }
+
+    .cb-site footer .footer-text{
+      font-family: Open Sans;
+      font-size: 10px;
+      color: rgb(159, 159, 159);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 0.4px;
+    }
+
+    .cb-site .social-menu {
+      padding-top: 10px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .social-icon-svg {
+      height:20px;
+      width:20px;
+      fill:rgb(207, 207, 207);
+    }
+
+    .social-icon-svg:hover {
+      fill: rgb(174, 174, 174);
+    }
+
+    .cb-site .grid .item .item_filename {
+      font-family:Helvetica Neue;
+      font-size:12px;
+      color: #000000;
+      padding:10px;
+
+    }
+
+    .cb-site .index_grid .item .item_info {
+      padding-top:5px;
+      padding-bottom:10px;
+      padding-left:0px;
+      padding-right:0px;
+    }
+
+    .cb-site .index_grid .item .item_info {
+      text-align: Left;
+    }
+
+    .cb-site .index_grid .item .item_info .item_title, .cb-site .index_grid .item .item_info .item_title a {
+      font-family:Open Sans;
+      font-size:13px;
+      color: rgb(52, 52, 52);
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.4px;
+      line-height: 1;
+    }
+
+    .cb-site .index_grid .item .item_info .item_caption, .cb-site .index_grid .item .item_info .item_caption a {
+      font-family:Open Sans;
+      font-size:12px;
+      color: rgb(126, 126, 126);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 0.4px;
+      line-height: 1.2;
+    }
+
+    .cb-site .grid .item {
+      background-color: rgb(237, 237, 237);
+    }
+
+    .cb-site .index_grid .item {
+      background-color: rgb(234, 234, 234);
+      padding: 5px;
+    }
+
+    .cb-site .index_grid .item .item_caption {
+      padding-top: 10px;
+    }
+
+    .gallery.vertical-scroller .item {
+      margin-bottom:0px;
+      background-color: rgb(237, 237, 237);
+    }
+
+    .gallery-slideshow .info-background {
+      background-color: rgba(255, 255, 255, 0);
+    }
+
+    .gallery-slideshow .info-content {
+      padding: 20px;
+    }
+
+    .gallery-slideshow .info-content .info-title {
+      font-family:Open Sans;
+      font-size:12px;
+      text-align: left;
+      color: rgb(153, 153, 153);
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.2px;
+      line-height: 1;
+    }
+
+    .gallery-slideshow .info-content .info-body {
+      font-family:Open Sans;
+      font-size:12px;
+      text-align: left;
+      color: rgb(153, 153, 153);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 0.2px;
+      line-height: 1;
+    }
+
+    .arrow-icon {
+      color: rgb(204, 204, 204);
+      font-size:29px;
+    }
+
+    .arrow-background {
+      background-color: rgba(192, 192, 192, 0);
+    }
+
+    .gallery-slideshow .toolbar {
+      color: #999999;
+      font-size:22px;
+    }
+
+    .gallery-slideshow .toolbar-counter {
+      font-family: Open Sans;
+      font-size:18px;
+    }
+
+    .gallery-slideshow .toolbar .toolbar-button:hover {
+      color: #000000;
+    }
+
+  /* template style matching overrides */
+
+
+  /* shared */
+
+    .cb-site hr {
+      border-bottom: 1px solid rgba(73, 73, 73,0.25);
+    }
+
+    .cb-site .btn-primary {
+      font-family: Roboto Condensed;
+      background-color: rgb(172, 172, 172);
+    }
+
+    .cb-site .btn-primary:hover {
+      background-color: rgb(73, 73, 73);
+    }
+
+    .cb-site .sub-nav {
+      background-color: rgba(255,255,255,0.9);
+    }
+
+    .cb-site.v-nav-left .sub-nav, .cb-site.v-nav-left-banner .sub-nav  {
+      background-color: transparent;
+    }
+
+    .cb-site .alert-success {
+      font-family: Open Sans;
+      font-size: 1em;
+    }
+
+    .cb-site .cb-branding .cb-symbol svg {
+      fill: rgba(73, 73, 73,0.2);
+    }
+
+    /* return to top button */
+    .totop {
+      background: rgb(172, 172, 172);
+    }
+
+    .totop svg {
+      fill: rgb(73, 73, 73);
+    }
+
+    /* blog */
+
+    .cb-site .cb-blog h1 a {
+      color: rgb(45, 45, 45);
+    }
+
+    .cb-site .cb-blog .pagination a {
+      color: rgb(172, 172, 172);
+      font-family: Roboto Condensed;
+      font-size: 14px;
+    }
+
+    .cb-site .cb-blog .pagination a:hover {
+      color: rgb(73, 73, 73);
+    }
+
+    .cb-site .cb-blog .pagination .disabled {
+      color: rgb(172, 172, 172);
+    }
+
+    .cb-site .cb-blog .pagination .current {
+      border-color: rgba(73, 73, 73,0.5);
+      font-family: Roboto Condensed;
+      font-size: 14px;
+      color: rgb(73, 73, 73);
+    }
+
+    /* end blog */
+
+    .gallery-slideshow .toolbar {
+      background-color: rgb(253, 253, 253);
+    }
+
+
+  /*mobile css matching*/
+
+  @media only screen and (max-width: 767px) {
+
+    header {
+      background-color: rgb(253, 253, 253);
+    }
+
+    #cb-site-container {
+       background-color: rgb(255, 255, 255);
+    }
+
+    .cb-site .logo_image {
+      background-color: rgb(253, 253, 253);
+    }
+
+    .cb-site .menu-name {
+      font-family: Roboto Condensed;
+      color: rgb(172, 172, 172);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 1px;
+    }
+
+    .cb-site .menu-toggle {
+      color: rgb(172, 172, 172);
+    }
+
+    .cb-site .nav-item {
+      background-color: rgb(253, 253, 253);
+      /* hide artifacting on subnav expand on some devices */
+      border-top: 1px solid rgb(253, 253, 253);
+      border-bottom: 1px solid rgb(253, 253, 253);
+    }
+
+    .cb-site .sub-nav {
+      background-color: rgba(172, 172, 172,0.2);
+    }
+
+    .cb-site nav li a:hover {
+      color: rgb(73, 73, 73);
+    }
+
+    .cb-site .mobile-social-item .social-menu {
+      background-color: rgb(253, 253, 253);
+    }
+
+    .cb-site .footer-content {
+      background-color: rgb(253, 253, 253);
+    }
+
+    .cb-site .mobile-footer-content {
+      font-family: Open Sans;
+      color: rgb(159, 159, 159);
+      text-transform: none;
+      text-decoration: none;
+      letter-spacing: 0.4px;
+    }
+  }
+
+    
