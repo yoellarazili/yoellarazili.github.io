@@ -13,5 +13,3 @@ I work with industrial materials that in the real world are designed to build ho
 Aluminum, wax, wood and mesh are all building materials. I take them to construct a different space.
 
 My space is an expansion of man made architectural structures. It is a landscape that starts within and grows into the unknown. It is tangible, perhaps recognizable and affirming, but yet new, pure and magical.
-
-My wishes in the future are to deepen the investigation of matter and space either in a gallery or in the open environment. I would like to invent new surfaces and new objects. I would like to witness a change in perception, a change that will greatly surprise me.
