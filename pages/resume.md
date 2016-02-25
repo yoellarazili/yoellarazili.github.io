@@ -40,8 +40,6 @@ permalink: /about/resume
 
 2015 We Insist, Biennale International d’art non objectif, De la Ville de Pont de Claix, France
 
-2015 Process/Result, 337 Project Space, Grand Rapids, MI
-
 2014 Yoella Razili and Scott Gordon Collaboration, LA Artcore, Los Angeles, CA
 
 2013 Art 70, Back to the roots, Kfar Blum, Israel
