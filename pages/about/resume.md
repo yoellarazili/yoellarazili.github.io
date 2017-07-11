@@ -36,6 +36,12 @@ permalink: /about/resume
 
 ### Selected Exhibitions:
 
+2017 Materials and Methods, LA Artcore, Los Angeles, CA
+
+2017 Black Box, postcards group exhibition, Boeckercontemporary, Heidelberg, Germany
+
+2017 Outer Limits, The Loft Gallery, San Pedro, CA
+
 2015 Process/Result, Grand Rapids, MI
 
 2015 We Insist, Biennale International d’art non objectif, De la Ville de Pont de Claix, France
