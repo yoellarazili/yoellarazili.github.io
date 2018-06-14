@@ -36,6 +36,14 @@ permalink: /about/resume
 
 ### Selected Exhibitions:
 
+2018 Group show, Gray Contemporary, Houston, TX
+ 
+2018 Introductions 2018, Trestle Gallery, Brooklyn, NY
+ 
+2018 Abstract show, Paul Williams Gallery, Ontario, CA
+ 
+2018 Que du Cercle, l'Espace de l'Art Concret, Mouans-Sartoux, France
+
 2017 Materials and Methods, LA Artcore, Los Angeles, CA
 
 2017 Black Box, postcards group exhibition, Boeckercontemporary, Heidelberg, Germany
