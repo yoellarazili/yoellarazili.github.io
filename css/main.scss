@@ -25,11 +25,8 @@ $color-gray: #707070;
 }
 
 .page-statement,
-.page-peter-frank,
-.page-artcore-webzine,
-.page-bio,
-.page-destill,
-[href*="/reviews/"] {
+.page-reviews,
+.page-bio {
   p {
     max-width: 400px;
   }
