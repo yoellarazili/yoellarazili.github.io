@@ -38,7 +38,9 @@ permalink: /about/resume
 
 ### Selected Exhibitions:
 
-2021 Four Minimalist Artists, Dayton OH
+2021 Black Box group exhibition, Boeckercontemporary, Heidelberg, Germany
+
+2021 Four Minimalist Artists, Dayton, OH
 
 2020 Art Matters 2, Galerie Biesenbach, Cologne, Germany
 
