@@ -9,3 +9,5 @@ permalink: /about/reviews
 [Robert Seitz](/reviews/artcore-webzine)
 
 [Brianna Bass](/reviews/destill)
+
+[Cynthia Penna](/reviews/cynthia-penna)
