@@ -38,6 +38,8 @@ permalink: /about/resume
 
 ### Selected Exhibitions:
 
+2021 Four Minimalist Artists, Dayton OH
+
 2020 Art Matters 2, Galerie Biesenbach, Cologne, Germany
 
 2018	Color Affinities, Key Projects Art Space, Long Island City, NY
