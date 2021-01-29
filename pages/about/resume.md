@@ -148,7 +148,9 @@ Elsie DeWolfe Scholarship Award
 
 Otis-Parsons Graduate Assistantship 
 
-Otis-Parsons Scholarship Recognition from the Art Committee of Kibutzim Movement
+Otis-Parsons Scholarship 
+
+Recognition from the Art Committee of Kibutzim Movement
 
 
 ### Publications:
