@@ -38,6 +38,8 @@ permalink: /about/resume
 
 ### Selected Exhibitions:
 
+2020 Art Matters 2, Galerie Biesenbach, Cologne, Germany
+
 2018	Color Affinities, Key Projects Art Space, Long Island City, NY
 
 2018	Destill:  A survey of contemporary art, Track One, Nashville, TN
@@ -146,6 +148,8 @@ Otis-Parsons Scholarship Recognition from the Art Committee of Kibutzim Movement
 
 
 ### Publications:
+
+Time at the time of Isolation, book published by Renato and Cynthia Penna, Art1307 (2020)
 
 We Insist, Biennale Internationale d’art Non Objectif, Pon de Claix, France (2015)
 
