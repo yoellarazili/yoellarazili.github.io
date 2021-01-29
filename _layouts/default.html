@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body id="cb-site-container" class="client-galleries show left client-galleries-11549 page-{{ page.title | slugify }}">
+  <body id="cb-site-container" class="client-galleries show left client-galleries-11549 page-{{ page.title | slugify }} {% if page.permalink contains "/reviews/" %}page-reviews{% endif %}">
     <div class="cb-site fullscreen v-nav-left">
       <a class="menu-toggle" href="#">u</a>
       <div class="hm-wrapper">
